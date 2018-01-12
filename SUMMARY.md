@@ -12,19 +12,19 @@
   * Summary - 总结
 * [基础 - Git Basics](ji-chu-git-basics.md)
   * [Getting a Git Repository - 获得一个git仓库](ji-chu-git-basics/getting-a-git-repository-huo-de-yi-ge-git-cang-ku.md)
-  * Recording Changes to the Repository - 记录仓库的变化
-  * Viewing the Commit History - 查看提交历史
-  * Undoing Things - 撤销
-  * Working with Remotes - 远程操作
-  * Tagging - 标记
-  * Git Aliases - git别称
-  * Summary - 总结
+  * [Recording Changes to the Repository - 记录仓库的变化](ji-chu-git-basics/recording-changes-to-the-repository-ji-lu-cang-ku-de-bian-hua.md)
+  * [Viewing the Commit History - 查看提交历史](ji-chu-git-basics/viewing-the-commit-history-cha-kan-ti-jiao-li-shi.md)
+  * [Undoing Things - 撤销](ji-chu-git-basics/undoing-things-che-xiao.md)
+  * [Working with Remotes - 远程操作](ji-chu-git-basics/working-with-remotes-yuan-cheng-cao-zuo.md)
+  * [Tagging - 标记](ji-chu-git-basics/tagging-biao-ji.md)
+  * [Git Aliases - git别称](ji-chu-git-basics/git-aliases-gitbie-cheng.md)
+  * [Summary - 总结](ji-chu-git-basics/summary-zong-jie.md)
 * [分支 - Git Branching](fen-zhi-git-branching.md)
-  * Branches in a Nutshell - 分支简介
-  * Basic Branching and Merging - 基础的分支和合并操作
-  * Branch Management - 分支管理
-  * Branching Workflows - 分支工作流
-  * Remote Branches - 远程分支
-  * Rebasing - 垫底
-  * Summary - 总结
+  * [Branches in a Nutshell - 分支简介](fen-zhi-git-branching/branches-in-a-nutshell-fen-zhi-jian-jie.md)
+  * [Basic Branching and Merging - 基础的分支和合并操作](fen-zhi-git-branching/basic-branching-and-merging-ji-chu-de-fen-zhi-he-he-bing-cao-zuo.md)
+  * [Branch Management - 分支管理](fen-zhi-git-branching/branch-management-fen-zhi-guan-li.md)
+  * [Branching Workflows - 分支工作流](fen-zhi-git-branching/branching-workflows-fen-zhi-gong-zuo-liu.md)
+  * [Remote Branches - 远程分支](fen-zhi-git-branching/remote-branches-yuan-cheng-fen-zhi.md)
+  * [Rebasing - 垫底](fen-zhi-git-branching/rebasing-dian-di.md)
+  * [Summary - 总结](fen-zhi-git-branching/summary-zong-jie.md)
 
