@@ -1,6 +1,10 @@
-#                                              **git guide book**
+# **git guide book**
 
-                                                                                                                             eddited by cao zhiping
+```
+                                                      eddited by cao zhiping
 
-                                                                                                                             2018.01.12
+2018.01.12
+```
+
+
 
