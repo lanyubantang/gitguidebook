@@ -1,3 +1,6 @@
-# My Awesome Book
+#                                              **git guide book**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+                                                                                                                             eddited by cao zhiping
+
+                                                                                                                             2018.01.12
+
